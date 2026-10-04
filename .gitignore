@@ -1,0 +1,10 @@
+*
+!.gitignore
+!index.html
+!favicon.svg
+!css/
+!css/**
+!js/
+!js/**
+!images/
+!images/**
